@@ -1,20 +1,28 @@
 {
 	"relaunched_official":[
-      {
-        "name":"HYPIXEL-1",
-        "motd":"Hypixel",
-        "ip":"mc.hypixel.net",
-        "port":25565,
-        "servertype":"§aRelaunched Official",
-        "maptype":"bukovka"
-      },
-      {
-        "name":"TERMINA-1",
-        "motd":"Termina",
-        "ip":"termina.com",
-        "port":25565,
-        "servertype":"§aRelaunched Official",
-        "maptype":"goofy"
-      }
+		{
+			"name":"HYPIXEL-1",
+			"motd":"Hypixel",
+			"ip":"mc.hypixel.net",
+			"port":25565,
+			"servertype":"§aRelaunched Official",
+			"maptype":"bukovka"
+		},
+		{
+			"name":"EU-BUKOVKA",
+			"motd":"Bukovka - §9EU",
+			"ip":"eu.mcdecimation.net",
+			"port":25566,
+			"servertype":"§aOfficial",
+			"maptype":"bukovka"
+		},
+		{
+			"name":"TERMINA-1",
+			"motd":"Termina",
+			"ip":"termina.com",
+			"port":25565,
+			"servertype":"§aRelaunched Official",
+			"maptype":"goofy"
+		}
 	]
 }
